@@ -8,3 +8,6 @@ https://learn.nextwork.org/portfolio/documents/R9yWmkzJyXsPUAeZw8ik
 
 DOCUMNETATION link DAY 3
 https://learn.nextwork.org/portfolio/documents/Q2FHw9k8So7BItapVIix
+
+DOCUMNETATION link DAY 4
+https://docs.google.com/viewer?url=https://learn.nextwork.org/mischievous_navy_vibrant_sage/projects/aws-devops-codebuild-updated/document.pdf
